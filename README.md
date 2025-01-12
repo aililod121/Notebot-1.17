@@ -168,8 +168,9 @@ Distributed under the GNU General Public License. See `LICENSE` for more informa
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 我修改了啥?
-很简单,改了最低版本而已
-Distributed under the GNU General Public License. See `LICENSE` for more information.
+很简单,改了最低版本而已.			
+
+**此仓库以GPL协议进行开源**
 
 
 
