@@ -15,8 +15,6 @@ jobs:
       with:
         java-version: '17'
         distribution: 'adopt'  # 如果不行使用zulu
-    - name: Run Client
-      run: ./gradlew runClient
-
+        
     - name: Build Jar
       run: ./gradlew jar
